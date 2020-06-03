@@ -1,0 +1,13 @@
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csprojAssemblyReference.cache
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfoInputs.cache
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfo.cs
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.exe
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.deps.json
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.json
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.dev.json
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\3a43mka\Documents\ООП\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CopyComplete
